@@ -1,0 +1,6 @@
+{
+  "name": "Google Drive Photo Backup",
+  "description": "Full-stack automated photo backup application to Google Drive with progress tracking and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
